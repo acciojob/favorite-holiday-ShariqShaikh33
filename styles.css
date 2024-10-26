@@ -1,1 +1,6 @@
 /*  your css code here. If applicable */
+div{
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
